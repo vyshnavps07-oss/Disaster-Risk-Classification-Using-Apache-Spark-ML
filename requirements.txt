@@ -1,0 +1,9 @@
+pyspark==3.5.1
+findspark
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+kaleido
